@@ -1,4 +1,6 @@
 测试pycharm commit-push
 测试命令git commit-push
-创建一个dev分支，然后修改dev分
-支的saves.txt文件
+创建一个dev分支，然后修改dev分支的saves.txt文件
+git config --list
+git config --global user.name 'ly'
+git config --global user.email '123123@qq.com'
